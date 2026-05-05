@@ -309,7 +309,7 @@ Nos enfocamos en el **"AI Matching Service"**, el corazón de LTI.
 5.  **Audit Logger:** Registra las decisiones de la IA para evitar sesgos y permitir explicabilidad.
 
 **Diagrama**
-```mermaind
+```mermaid
 graph TB
     %% Definición de elementos externos al servicio
     API_GW[API Gateway]
@@ -344,5 +344,3 @@ graph TB
     style VD fill:#e1f5fe,stroke:#01579b
     style AL fill:#fff3e0,stroke:#e65100
 ```
----
-Fin de la propuesta
